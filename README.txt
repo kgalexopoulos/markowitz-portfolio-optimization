@@ -29,7 +29,9 @@ The notebook explores:
 
 ## Structure
 
-- `markowitz_analysis.ipynb`: main notebook with all analysis
+- markowitz_portfolio_analysis.ipynb   # Full analysis
+- requirements.txt                    # Dependencies
+- README.md                           # Project description
 
 ## Requirements
 
